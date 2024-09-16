@@ -162,8 +162,8 @@
       },
       "scheme-2": {
         "settings": {
-          "background": "#ffffff",
-          "background_gradient": "linear-gradient(0deg, rgba(255, 229, 229, 1), rgba(255, 231, 220, 1) 29%, rgba(255, 231, 220, 1) 65%, rgba(238, 243, 227, 1) 96%)",
+          "background": "#d7c298",
+          "background_gradient": "linear-gradient(133deg, rgba(238, 231, 193, 1) 9%, rgba(238, 231, 193, 1) 49%, rgba(238, 231, 193, 1) 85%)",
           "text": "#2e2a39",
           "button": "#2e2a39",
           "button_label": "#edffa7",
@@ -184,7 +184,7 @@
       },
       "scheme-4": {
         "settings": {
-          "background": "#ffdff6",
+          "background": "#000000",
           "background_gradient": "",
           "text": "#ffffff",
           "button": "#fdfbf7",
